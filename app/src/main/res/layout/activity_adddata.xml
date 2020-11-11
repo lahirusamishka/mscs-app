@@ -52,7 +52,7 @@
         android:layout_marginBottom="15dp"
         android:id="@+id/add_submit"
         android:textSize="20sp"
-        android:text="Add to Firebase"/>
+        android:text="Save"/>
 
     <Button
         android:layout_width="wrap_content"

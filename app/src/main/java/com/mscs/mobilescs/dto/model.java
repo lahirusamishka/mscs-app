@@ -1,4 +1,4 @@
-package com.mscs.mobilescs;
+package com.mscs.mobilescs.dto;
 
 public class model
 {
