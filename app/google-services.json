@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794389572128",
+    "firebase_url": "https://mscs-6835b.firebaseio.com",
+    "project_id": "mscs-6835b",
+    "storage_bucket": "mscs-6835b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794389572128:android:9f2138f27d41501030ea45",
+        "android_client_info": {
+          "package_name": "com.mscs.mobilescs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794389572128-e19ujh9adscf2f02qj90pv7nabrbj23q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnMC3xtmd_S1BI9nqBUiuhQ0mz_M_76Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794389572128-e19ujh9adscf2f02qj90pv7nabrbj23q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
